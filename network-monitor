@@ -1,0 +1,23 @@
+```
+network-monitor/
+│
+├── docs/
+│   └── CONTRIBUTING.md
+│   └── LICENSE.md
+│   └── README.md
+│
+├── tests/
+│   └── test_capture.py
+│   └── test_analysis.py
+│   └── test_visualization.py
+│
+├── src/
+│   └── network_monitor.py
+│   └── packet_capture.py
+│   └── data_analysis.py
+│   └── visualization.py
+│
+├── requirements.txt
+│
+└── README.md
+```
